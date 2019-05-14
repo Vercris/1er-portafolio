@@ -1,0 +1,22 @@
+{
+    "name": "Vercris|Diseñador web",
+    "short_name": "Vercris",
+    "description": "Diseñador web",
+    "background_color": "white",
+    "theme_color": "white",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "../index.html?utm_source=web_app_manifest",
+    "scope": "../",
+    "lang": "es-MX",
+    "icons": [
+      {
+        "src": "../src/icon/Logo.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      } 
+    ]
+
+
+
+  }
