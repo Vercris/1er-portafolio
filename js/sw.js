@@ -4,6 +4,7 @@ const CACHE_NAME = 'v1_cache_Vercris',
   urlsToCache = [
     './',
     '../src',
+    '../index.html',
     '../pages/contacto.html',
     '../cinco_pasos.css',
   ]
