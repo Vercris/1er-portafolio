@@ -20,3 +20,18 @@ li>a:hover{
     background-color: rgb(29, 166, 207);
     color:white;
 }
+footer{
+    bottom: 0;
+    width: 100%;
+}
+span{
+    color: gray;
+    font-size: 12px;
+}
+.pie{
+    background-color: white;
+}
+h6{
+    color: gray;
+    font-size: 18px;
+} 

@@ -3,14 +3,6 @@ body{
     min-height:100vh; 
     background-image: url('../src/img/fondo.jpg');
 }
-h6{
-    color: rgba(128, 128, 128, 0.671);
-    font-size: 18px;
-} 
-span{
-    color: rgba(128, 128, 128, 0.671);
-    font-size: 12px;
-}
 b{
     color:steelblue;
     text-decoration:underline dotted steelblue;
@@ -18,13 +10,6 @@ b{
 h3{
     text-decoration: none;
     font-size:20px;
-}
-footer{
-    bottom: 0;
-    width: 100%;
-}
-.pie{
-    background-color: white;
 }
 .collapsible, .collapsible-header{
     border-radius: 20px;
@@ -49,7 +34,7 @@ div>h2{
 }
 .parche1{
     width: 100%;
-    height: 10em;
+    height: auto;
 }
 .parche2{
     transform: translateY(-30%);
