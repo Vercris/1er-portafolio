@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Maven+Pro|Abel|Exo');
+  blockquote{
+        display: inline-block;
+        font-size: 20px;
+        font-family: 'Exo';
+        padding: 15px;
+        background-color: white;
+    }
+  .r_uno{
+        font-family: 'Maven Pro', cursive; 
+        font-size: 1.4em;
+        height: 10em;
+  }
+  .r_dos{
+        font-family: 'Maven Pro', cursive;   
+        font-size: 1.4em;
+        height: 8em;
+  }
+  .r_tres{
+        font-family: 'Abel', cursive;   
+        font-size: 1.2em;
+        height: auto;
+        transform: translateY(1.5em);
+}
+.resaltado{
+        color: rgba(240, 19, 129, 0.829);
+        font-size: 1.3em;
+        font-family: 'Exo', cursive;
+}
+ .in_1{
+        height: 12em;
+        font-family: 'Maven Pro', cursive; 
+        font-size: 1.4em;
+ }
+ .in_2{
+        height: auto;
+        margin: 0;
+}
+.in_3{
+        height: auto;
+        font-family: 'Abel', cursive;   
+        font-size: 1.2em;margin: 0;
+}
+.parche3{
+        margin-bottom:0; 
+}
+.parche4{
+        margin-bottom: 0;
+}
+.click{
+        font-size: 1.3em;
+}
+@media only screen and (max-width: 601px) {
+    .r_uno{
+        height: auto;
+    }
+    .r_dos{
+        margin-bottom:2em;
+    }
+    .r_tres{
+        height: 3em;
+        margin-bottom: 1.5em;
+    }
+    .in_1{
+        height: 6em;
+    }
+    body{
+        background-image: none;
+    }
+  }
+
