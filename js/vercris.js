@@ -6,8 +6,10 @@ document.addEventListener('DOMContentLoaded', function() {
     var collapsible = document.querySelectorAll('.collapsible');
     var boton = document.querySelectorAll('.fixed-action-btn');
     var slider = document.querySelectorAll('.slider');
+    var sidenav = document.querySelectorAll('.sidenav');
     
     //  LAS INSTANCIAS
+    var instances = M.Sidenav.init(sidenav);
     var  Ins_parallax= M.Parallax.init(parallax);
     var instances = M.Slider.init(slider,
         {

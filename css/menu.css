@@ -17,8 +17,7 @@ h5{
     font-weight: 300;
 }
 li>a:hover{
-    background-color: rgb(29, 166, 207);
-    color:white;
+    color: white;
 }
 footer{
     bottom: 0;
