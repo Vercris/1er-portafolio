@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     var instances = M.FloatingActionButton.init(boton,
         {
-            hoverEnabled:true,
+            hoverEnabled:false
         });
     var  Ins_carousel = M.Carousel.init(carousel,
         {
