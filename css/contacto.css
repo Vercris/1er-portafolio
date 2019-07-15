@@ -62,7 +62,9 @@ body{
     background-color: #31f117;
     color: white;
 }
-
+.descripcion{
+    color: white;
+}
 @media only screen and (max-width: 601px) {
 
     .call1{
